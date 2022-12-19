@@ -7,14 +7,14 @@ For applying an optimized method to a given situation, understanding the best so
 Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
 
 
-##Links <br/>
+## Links <br/>
 https://www.linkedin.com/in/yewon-h-b837a51a1 <br/>
 
-##Tech Stack <br/><br/>
+## Tech Stack <br/><br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 
 
-##Hobbies<br/>
+## Hobbies<br/>
 🎶 Music 🛫 Travel 🏃🏻‍♀️ Workout ☕️ Study with coffee<br/>
 
