@@ -1,10 +1,11 @@
 ![ header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YewonHong&fontSize=90)
 <br/><br/><br/><br/>
-interested in both SoftWare Development and Machine Learning 💻 💡<br/>
+
 
 <br/>
 <div align="center">
-
+interested in both SoftWare Development and Machine Learning 💻 💡<br/>
+  
 For applying an optimized method to a given situation, understanding the best solution to it, dreaming of an SW Engineer who quickly learns and adapts of shortcomings and pursing communication, programming skills, and leadership. Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
   
   </div>
