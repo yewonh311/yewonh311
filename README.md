@@ -8,6 +8,8 @@
 
   
   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)     <br/>               
+  
 interested in both SoftWare Development and Machine Learning 💻 💡<br/>
   
 For applying an optimized method to a given situation, understanding the best solution to it, dreaming of an SW Engineer who quickly learns and adapts of shortcomings and pursing communication, programming skills, and leadership. Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
