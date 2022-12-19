@@ -20,8 +20,7 @@ For applying an optimized method to a given situation, understanding the best so
 ## Links <br/>
 https://www.linkedin.com/in/yewon-h-b837a51a1 <br/>
 
-## Tech Stack <br/><br/>
-
+<div align=center><h1>Tech Stack</h1></div>
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -42,7 +41,7 @@ https://www.linkedin.com/in/yewon-h-b837a51a1 <br/>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
+</div>
   <br>
 
 
