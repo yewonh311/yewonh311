@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   
-  ![ header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Yewon_H&fontSize=90)
+  ![ header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=yewon-Hong&fontSize=90)
 <br/><br/><br/><br/>
 
   
