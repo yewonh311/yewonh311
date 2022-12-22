@@ -12,7 +12,7 @@
   
 interested in both SoftWare Development and Machine Learning 💻 💡<br/>
   
-For applying an optimized method to a given situation, understanding the best solution to it, dreaming of an SW Engineer who quickly learns and adapts of shortcomings and pursing communication, programming skills, and leadership. Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
+For applying an optimized method to a given situation, pursing the best solution, dreaming of an SW Engineer who quickly learns and adapts of shortcomings with communication, programming skills, and leadership. Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
   
   </div>
 
