@@ -12,7 +12,9 @@
   
 interested in both SoftWare Development and Machine Learning 💻 💡<br/>
   
-For applying an optimized method to a given situation and pursing the best solution, dreaming of an SW Engineer who quickly learns and adapts of shortcomings with communication, programming skills, and leadership. Spontaneously, also dream of being ML Engineer to bring out flexible automation through key insights of data for a better future.
+Experienced software engineer with strong problem-solving skills and a proven ability to quickly adapt and learn from shortcomings. Skilled in multiple programming languages, with a focus on communication and leadership to drive successful projects. Also, aspiring ML engineer with a passion for data insights and a desire to bring about flexible automation for a better future.
+
+Personal Notion page: https://yewonhong.notion.site/Yewon-Hong-a37c12aa7d0544c0acfa727ca4f7fb90
   
   </div>
 
