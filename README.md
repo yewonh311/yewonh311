@@ -4,7 +4,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Yewon Hong%20&fontSize=90)
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Yewon Hong%20Test&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Yewon Hong%20Test0&stroke=00FF00)
 ![header](https://capsule-render.vercel.app/api?type=rect&&color=gradientheight=200&text=Yewon Hong%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 
 
