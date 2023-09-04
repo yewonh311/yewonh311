@@ -4,12 +4,13 @@
 <div align="center">
   
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+
 <br/><br/>
   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewonh311&count_bg=%23D7BDF4&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    <br/>               
   
-interested in both SoftWare Development and Machine Learning 💻 💡<br/>
+Interested in both SoftWare Development and Machine Learning 💻 💡<br/>
   
 Experienced software engineer with strong problem-solving skills and a proven ability to quickly adapt and learn from shortcomings. Skilled in multiple programming languages, with a focus on communication and leadership to drive successful projects. Aspiring ML engineer with a passion for data insights and a desire to bring about flexible automation for a better future.
 
