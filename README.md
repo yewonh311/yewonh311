@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=YewonHong%20render&fontSize=90)
 
 <br/><br/>
   
