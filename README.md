@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Yewon Hong%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Yewon Hong%20&fontSize=90)
 
 <br/><br/>
   
