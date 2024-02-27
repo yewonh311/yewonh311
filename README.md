@@ -17,14 +17,12 @@ Interested in both SoftWare Development and Machine Learning 💻 💡<br/>
 
 </div>
 
-Experienced software engineer with strong problem-solving skills and a proven ability to quickly adapt and learn from shortcomings. Skilled in multiple programming languages, with a focus on communication and leadership to drive successful projects. Aspiring ML engineer with a passion for data insights and a desire to bring about flexible automation for a better future.
+Experienced software engineer with strong problem-solving skills and a proven ability to quickly adapt and learn from shortcomings. Skilled in multiple programming languages, with a focus on communication and leadership to drive successful projects. Aspiring ML engineer with a passion for data insights and a desire to bring about flexible automation for a better future.<br/><br/>
 
-Personal Notion page: https://yewonhong.notion.site/Yewon-Hong-a37c12aa7d0544c0acfa727ca4f7fb90
+[Personal Notion page](https://yewonhong.notion.site/Yewon-Hong-a37c12aa7d0544c0acfa727ca4f7fb90)<br/><br/>
   
 
-
-## Links <br/>
-https://www.linkedin.com/in/yewonhong <br/><br/>
+[LinkedIn](https://www.linkedin.com/in/yewonhong) <br/><br/>
 
 
 ## Tech Stack <br/>
